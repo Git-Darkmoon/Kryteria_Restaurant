@@ -1,0 +1,25 @@
+.category-btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 2rem;
+}
+.category-btn-container .categoryBtn {
+  padding-inline: 1rem;
+  padding-block: 0.5rem;
+  font-size: 1.5rem;
+  cursor: pointer;
+  background-color: transparent;
+  color: #efcfa0;
+  border: none;
+  border-radius: 0.25rem;
+  transition: all 0.3s ease;
+}
+.category-btn-container .categoryBtn:hover {
+  background-color: hsl(36, 47%, 57%);
+  color: hsl(36, 71%, 88%);
+}
+.category-btn-container .categoryBtn:focus {
+  outline: 0.65px solid hsl(36, 47%, 57%);
+}/*# sourceMappingURL=Categories.css.map */

@@ -1,0 +1,29 @@
+// COLORS
+$black: #241f1b;
+$black_dark: hsl(27, 14%, 8%);
+$white: hsl(36, 71%, 88%);
+$sand: #efcfa0;
+$gold-dark: hsl(36, 47%, 57%);
+$gold-light: #e1a140;
+
+// MIXINS
+@mixin flexCenter($direction) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: $direction;
+}
+
+// FONTS
+$font-family_Cormorant: "Cormorant Garamond", serif;
+$font-family_Italiana: "Italiana", serif;
+$font-family_Roboto: "Roboto", sans-serif;
+
+$font-weight-1: 100;
+$font-weight-3: 300;
+$font-weight-4: 400;
+$font-weight-6: 600;
+$font-weight-7: 700;
+
+//Transition
+$transition: all 0.3s ease;
