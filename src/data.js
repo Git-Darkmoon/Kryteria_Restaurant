@@ -4,7 +4,7 @@ const menu = [
     title: "buttermilk pancakes",
     category: "breakfast",
     price: 15.99,
-    img: "./assets/images/item-1.jpeg",
+    img: "./src/assets/images/item-1.jpeg",
     desc: "Indulge in heavenly Buttermilk Pancakes, a divine blend of fluffiness and rich flavors. Elevate your breakfast experience today!",
   },
   {
@@ -12,7 +12,7 @@ const menu = [
     title: "Wagyu Delight Burger",
     category: "lunch",
     price: 13.99,
-    img: "./assets/images/item-2.jpeg",
+    img: "./src/assets/images/item-2.jpeg",
     desc: "Savor the exquisite Wagyu Delight Burger, a gourmet masterpiece. Juicy, tender, and bursting with succulent flavors. Pure luxury on a bun!",
   },
   {
@@ -20,7 +20,7 @@ const menu = [
     title: "godzilla milkshake",
     category: "shakes",
     price: 6.99,
-    img: "./assets/images/item-3.jpeg",
+    img: "./src/assets/images/item-3.jpeg",
     desc: "Unleash your taste buds with the epic Godzilla Milkshake. A towering blend of creamy goodness that will leave you craving more. Conquer your dessert desires!",
   },
   {
@@ -28,7 +28,7 @@ const menu = [
     title: "country delight",
     category: "breakfast",
     price: 20.99,
-    img: "./assets/images/item-4.jpeg",
+    img: "./src/assets/images/item-4.jpeg",
     desc: "Start your mornings with the delightful Country Delight breakfast. Rustic flavors, farm-fresh ingredients, and a comforting touch of homestyle goodness.",
   },
   {
@@ -36,7 +36,7 @@ const menu = [
     title: "Alioli Beefegg",
     category: "lunch",
     price: 22.99,
-    img: "./assets/images/item-5.jpeg",
+    img: "./src/assets/images/item-5.jpeg",
     desc: "Indulge in the irresistible Alioli Beef n Egg burger. A mouthwatering fusion of juicy beef, creamy alioli, and a perfectly cooked egg. Pure burger bliss!",
   },
   {
@@ -44,7 +44,7 @@ const menu = [
     title: "oreo dream",
     category: "shakes",
     price: 18.99,
-    img: "./assets/images/item-6.jpeg",
+    img: "./src/assets/images/item-6.jpeg",
     desc: "Embark on a dreamy journey with the Oreo Dream milkshake. Rich, velvety, and packed with cookie goodness. A milkshake that will make your taste buds dance!",
   },
   {
@@ -52,7 +52,7 @@ const menu = [
     title: "bacon overflow",
     category: "breakfast",
     price: 8.99,
-    img: "./assets/images/item-7.jpeg",
+    img: "./src/assets/images/item-7.jpeg",
     desc: "Experience breakfast bliss with the Bacon Overflow souffle egg sandwich. Fluffy eggs, crispy bacon, and a burst of savory flavors in every bite. Breakfast elevated!",
   },
   {
@@ -60,7 +60,7 @@ const menu = [
     title: "american classic",
     category: "lunch",
     price: 12.99,
-    img: "./assets/images/item-8.jpeg",
+    img: "./src/assets/images/item-8.jpeg",
     desc: "Indulge in the American Classic: a timeless hamburger paired with golden crispy fries. A mouthwatering combo that captures the essence of culinary nostalgia.",
   },
   {
@@ -68,7 +68,7 @@ const menu = [
     title: "quarantine buddy",
     category: "shakes",
     price: 16.99,
-    img: "./assets/images/item-9.jpeg",
+    img: "./src/assets/images/item-9.jpeg",
     desc: "Find comfort in the Quarantine Buddy milkshake, a delicious treat designed to be shared. Sweet moments, double the joy, and a delightful escape together.",
   },
 ]
